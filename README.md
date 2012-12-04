@@ -13,12 +13,12 @@ You will want to edit the extension to set the path to your statamic and content
 
 Type keyword `stat` and enter the title of your entry. The markdown file will be created using today's date and a slugged version of the title.
 ```
-stat New Entry
+entry New Blog Post
 ```
-Will create: `yyyy-mm-dd-new-entry.md` with the YAML front-matter pre-loaded.
+Will create: `yyyy-mm-dd-new-blog-post.md` with the YAML front-matter pre-loaded.
 
 ```
 ---
-title: New Entry
+title: New Blog Post
 ---
 ```
