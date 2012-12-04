@@ -1,12 +1,13 @@
 # Statamic Alfred Extensions
 Alfred Extensions to make using [Statamic](http://statamic.com) even *easier*. You will need Alfred and the Powerpack to use these.
 
-## How to Use
+## How to Install
 Double-click the extension of your choice to install.
--------------------------------------
 
 ### New Dated Statamic Entry
 *Creates a date based entry in the folder of your choice and opens it in IA Writer.*
+
+--------------------------------------
 
 You will want to edit the extension to set the path to your statamic and content folder. If you don't want to open the entry in IA Writer, you can edit the last line to use the editor of your choice.
 
